@@ -1,0 +1,11 @@
+# Віртуальне середовище
+venv/
+env/
+
+# Кеш Python та Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# Датасети та згенеровані файли (щоб не засмічувати репозиторій)
+household_power_consumption.txt
+vhi_data/
