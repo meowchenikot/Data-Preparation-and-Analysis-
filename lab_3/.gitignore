@@ -1,0 +1,10 @@
+# Віртуальне середовище
+venv/
+env/
+
+# Кеш Python та Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# Налаштування робочого простору VS Code
+.vscode/
