@@ -1,0 +1,21 @@
+# Build artifacts and directories
+build/
+
+# Compiled binaries (just in case they end up in root)
+*.out
+*.exe
+Lab6_OpenCV
+
+# Temporary media files (if you used a video file like test.mp4 for debugging)
+*.mp4
+*.avi
+*.mkv
+
+# IDE and editor configurations
+.vscode/
+.idea/
+compile_commands.json
+
+# OS generated files
+.DS_Store
+*~
