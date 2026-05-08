@@ -1,0 +1,23 @@
+# Build artifacts and directories
+build/
+
+# Compiled binaries (just in case they end up in root)
+*.out
+*.exe
+Lab7_OpenCV
+
+*.mp4
+*.avi
+*.mkv
+
+# IDE and editor configurations
+.vscode/
+.idea/
+compile_commands.json
+
+# OS generated files
+.DS_Store
+*~
+
+res10_300x300_ssd_iter_140000.caffemodel
+deploy.prototxt
