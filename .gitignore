@@ -16,3 +16,6 @@ venv/
 *.log
 # *.csv
 # *.json
+
+vhi_data.csv
+.streamlit/
